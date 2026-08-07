@@ -1,0 +1,24 @@
+# Arquivos privados
+.env
+loja.db
+private_servers.json
+
+# Pastas
+backups/
+transcripts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
